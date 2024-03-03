@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\Desktop\\notreatment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oussa\\Desktop\\notreatment\\templates\\dossiermedical\\new.html.twig||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\dossiermedical\\new.html.twig||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oussa\\Desktop\\notreatment\\templates\\dossiermedical\\index.html.twig||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\dossiermedical\\index.html.twig||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oussa\\Desktop\\notreatment\\src\\Controller\\DossiermedicalController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Controller\\DossiermedicalController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oussa\\Desktop\\notreatment\\templates\\consultation\\index.html.twig||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\consultation\\index.html.twig||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oussa\\Desktop\\notreatment\\src\\Entity\\Consultation.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Entity\\Consultation.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "new.html.twig",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\notreatment\\templates\\dossiermedical\\new.html.twig",
+              "RelativeDocumentMoniker": "templates\\dossiermedical\\new.html.twig",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\notreatment\\templates\\dossiermedical\\new.html.twig",
+              "RelativeToolTip": "templates\\dossiermedical\\new.html.twig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-03T16:51:59.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html.twig",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\notreatment\\templates\\dossiermedical\\index.html.twig",
+              "RelativeDocumentMoniker": "templates\\dossiermedical\\index.html.twig",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\notreatment\\templates\\dossiermedical\\index.html.twig",
+              "RelativeToolTip": "templates\\dossiermedical\\index.html.twig",
+              "ViewState": "AQIAAAEAAAAAAAAAAABKvQ0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-03T16:45:24.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DossiermedicalController.php",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\notreatment\\src\\Controller\\DossiermedicalController.php",
+              "RelativeDocumentMoniker": "src\\Controller\\DossiermedicalController.php",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\notreatment\\src\\Controller\\DossiermedicalController.php",
+              "RelativeToolTip": "src\\Controller\\DossiermedicalController.php",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-03-03T16:38:15.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consultation.php",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\notreatment\\src\\Entity\\Consultation.php",
+              "RelativeDocumentMoniker": "src\\Entity\\Consultation.php",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\notreatment\\src\\Entity\\Consultation.php",
+              "RelativeToolTip": "src\\Entity\\Consultation.php",
+              "ViewState": "AQIAABAAAAAAMzMzMzMLwBsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-03-03T16:35:49.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html.twig",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\notreatment\\templates\\consultation\\index.html.twig",
+              "RelativeDocumentMoniker": "templates\\consultation\\index.html.twig",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\notreatment\\templates\\consultation\\index.html.twig",
+              "RelativeToolTip": "templates\\consultation\\index.html.twig",
+              "ViewState": "AQIAAFMAAAAANDMzMzMbwF4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-03T16:14:27.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
